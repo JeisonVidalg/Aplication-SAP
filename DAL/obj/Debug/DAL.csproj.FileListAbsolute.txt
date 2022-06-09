@@ -1,0 +1,9 @@
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\bin\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\bin\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\obj\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\DAL\obj\Debug\DAL.pdb

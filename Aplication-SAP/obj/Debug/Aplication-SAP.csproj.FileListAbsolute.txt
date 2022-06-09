@@ -1,0 +1,32 @@
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_codeValidation.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_ListaProyects.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Login.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Main.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Proyects.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_SendCodevalidation.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_UpdatePassword.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CopyComplete
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb

@@ -1,0 +1,6 @@
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\BLL\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\BLL\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\BLL\obj\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplication-SAP\BLL\obj\Debug\BLL.pdb
